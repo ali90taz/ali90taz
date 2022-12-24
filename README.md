@@ -2,7 +2,6 @@
 - 👀 I’m interested in C, C++, Assembly and Python languages.
 - 🌱 I’m currently learning Python and C. 
 - 💞️ I’m looking to collaborate on C and Assembly projects.
-- 📫 How to reach me, by my e-mail for now, ali_santos@live.com.
 
 <!---
 ali90taz/ali90taz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
